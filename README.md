@@ -1,2 +1,42 @@
-# 4a2b9044-forensic-science-investigati
-Collect, curate, and display social proof with schema markup and widgets. Convert visitors with authentic Forensic Science &amp; Investigation testimonials.
+# Forensic Science & Investigation Customer Testimonial and Review Display WordPress Plugin
+
+> Plugin for Forensic Science
+
+Built for forensic science professionals who are tired of wrestling with incompatible WordPress plugins that fight each other.
+
+Compatible with all major WordPress themes and page builders. Regular security updates.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$34.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/9B65kD9z99Mw3lm8nGcZx3m)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
